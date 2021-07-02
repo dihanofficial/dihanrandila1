@@ -33,13 +33,13 @@
 
 # MY SOCIAL GITHUB STATICS
 
-<a href="https://github.com/dihanofficial/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=dihanofficial&show_icons=true&theme=midnight-purple" />
+<a href="https://github.com/dihanrandila1/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=dihanrandila1&show_icons=true&theme=midnight-purple" />
   </a>
 
 - [![Profile views](https://gpvc.arturio.dev/dihanrandila1)](https://gpvc.arturio.dev/dihanrandila1)
 - [![GitHub followers](https://img.shields.io/github/followers/dihanrandila1.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dihanrandila1?tab=followers)
-- <p align="left"> <a href="https://github.com/dihanrandil1"><img src="https://github-profile-trophy.vercel.app/?username=dihanofficial&no-bg=true" alt="dihanrandila" /></a> </p>
+- <p align="left"> <a href="https://github.com/dihanrandil1"><img src="https://github-profile-trophy.vercel.app/?username=dihanrandila1&no-bg=true" alt="dihanrandila" /></a> </p>
 
 &nbsp;
 
