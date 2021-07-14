@@ -6,6 +6,17 @@
 ## Here Are Some Ideas To Get You Started:
 
 
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
+  
+
+
 <!-- BADGES -->
 
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCJYoog0kYNDridrBlcvwMoQ)&nbsp;
