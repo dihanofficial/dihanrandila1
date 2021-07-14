@@ -2,8 +2,7 @@
 
 # Hello there! I'm Dihan Randila <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<a href="https://github.com/dihanofficial"><img align="centre" src="https://raw.githubusercontent.com/dihanofficial/dihanofficial/main/img/Header.jpg"> </a>
-## Here Are Some Ideas To Get You Started:
+
 
 
 <!-- Talking about you -->
