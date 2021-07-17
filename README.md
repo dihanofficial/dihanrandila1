@@ -1,6 +1,19 @@
 <!-- MY TITTLE -->
 
-# Hello there! I'm Dihan Randila <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+<h1 align="center"><b>Dihan Randila 😜 </b></h1>
+
+<h4 align="center"></h4>
+<p align='center'>
+
+
+<p align="center"><a href="https://t.me/Dihanrandila"><img src="https://telegra.ph/file/3982193a3877ef50e5e70.jpg" width="400"></a></p>
+
+
+
+
+
+#  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 
